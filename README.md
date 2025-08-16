@@ -1,4 +1,4 @@
-# 🏖️ Goa Trip Project
+# 🏖️ Goa Getaway
 
 This is a simple interactive modal project built for the **CodePath WEB101** course. The modal displays a trip confirmation with animation, custom styling, and JavaScript-driven interactions.
 
